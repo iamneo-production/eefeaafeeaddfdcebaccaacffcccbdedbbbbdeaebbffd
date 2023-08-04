@@ -9,4 +9,3 @@ function getUserIpDetails(userResponse = {}) {
             return [firstMark, secondMark, thirdMark].sort();
             }
             export { getUserIpDetails,getTopThree};
-}
